@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6rbF2rktSm1eGUKCNFnKLyVGpyxjuAF39ZdFwxbovLQ=",
+  "Source": "HelloApp",
+  "BasePath": "_content/HelloApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HelloApp\\wwwroot",
+      "Source": "HelloApp",
+      "ContentRoot": "C:\\Users\\tolik\\source\\repos\\HelloApp\\wwwroot\\",
+      "BasePath": "_content/HelloApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tolik\\source\\repos\\HelloApp\\wwwroot\\index.html",
+      "SourceId": "HelloApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tolik\\source\\repos\\HelloApp\\wwwroot\\",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
